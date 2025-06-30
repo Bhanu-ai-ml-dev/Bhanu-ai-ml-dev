@@ -5,7 +5,7 @@
 - 🌱 I love building small projects that solve real problems
 - 🤖 Dream: To become a professional in **AI/ML**
 - 💬 Ask me about: Python, loops, variables, beginner coding
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at:bhanupratapsingh95086@gmail.com
 - ⚡ Fun fact: I learn by doing — and I don’t give up easily 😉
 
 ---
